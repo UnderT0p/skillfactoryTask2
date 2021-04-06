@@ -1,0 +1,14 @@
+{
+  "name": "node_example_skillfactorym8d8",
+  "version": "1.0.0",
+  "description": "dddd text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "undert0p",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
