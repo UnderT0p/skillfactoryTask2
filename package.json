@@ -1,14 +1,19 @@
 {
-  "name": "node_example_skillfactorym8d8",
+  "name": "node_example_skillfactorym8d8_djkfgueps843y5mcns",
   "version": "1.0.0",
   "description": "dddd text",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+"repository":{
+    "type": "git",
+"url": "git+https://github.com/UnderT0p/skillfactoryTask2"
+},
   "author": "undert0p",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.6.0"
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0"
   }
 }
