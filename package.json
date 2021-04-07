@@ -6,10 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-"repository":{
+  "repository": {
     "type": "git",
-"url": "git+https://github.com/UnderT0p/skillfactoryTask2"
-},
+    "url": "git+https://github.com/UnderT0p/skillfactoryTask2"
+  },
   "author": "undert0p",
   "license": "ISC",
   "dependencies": {
